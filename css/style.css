@@ -431,3 +431,9 @@ a.navbar-item.is-active {
   .hero-visual .blob { animation: none; }
   .hero .role::after, .code-body code::after { animation: none; }
 }
+
+.project-card img {
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+}
