@@ -19,8 +19,10 @@ Durante el desarrollo de este proyecto se utilizó **Claude, de Antrhopic**, com
 
 La inteligencia artificial se utilizó principalmente para:
 
-* Hace estructuras HTML para las secciones.
+* Crear estructuras HTML para las distintas secciones.
 * Desarrollar el menú de navegación.
+* Ayudar con el diseño y estilos mediante CSS y Bootstrap.
+* Adaptar el sitio para distintos tamaños de pantalla.
 * Resolver dudas y detectar posibles errores en el código.
 * Mejorar la organización y presentación de los contenidos del portafolio.
 
